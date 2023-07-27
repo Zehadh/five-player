@@ -1,0 +1,46 @@
+
+.header-text {
+    color: rgb(207, 73, 24);
+    font-size: 70px;
+    font-family: 'Fasthand', cursive;
+    font-weight: 700;
+}
+
+.text{
+    font-size: 22px;
+    margin: 0 200px;
+}
+
+.selectBtn{
+    border: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 5px 50px;
+    font-weight: 700 ;
+}
+
+#totalBtn, #calculateBtn{
+    border: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 5px 28px;
+    font-weight: 700;
+}
+
+#totalBtn:ac, #calculateBtn:active{
+    color: white;
+    background-color: skyblue;
+}
+
+#myList li{
+    font-size: large;
+    font-weight: 600;
+}
+
+hr {
+    height: 5px;
+    border: none;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, rgb(235, 9, 9)));
+}
